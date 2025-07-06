@@ -26,4 +26,4 @@ Image width adjustments to fit the layout
 The goal of this project is to practice structuring and styling a simple roadmap or informational pamphlet that combines text and images.
 It can be viewed in a web browser as a single scrolling page.
 
-Feel free to explore the code, suggest improvements, or fork it to build your own styled roadmap!
+
